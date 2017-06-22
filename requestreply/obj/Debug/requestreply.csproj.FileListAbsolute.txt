@@ -24,3 +24,8 @@ C:\Users\vamsi\Documents\CDAC\chat-final\chat\requestreply\bin\Debug\requestrepl
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\requestreply\bin\Debug\requestreply.pdb
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\requestreply\obj\Debug\requestreply.dll
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\requestreply\obj\Debug\requestreply.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\requestreply\bin\Debug\requestreply.dll
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\requestreply\bin\Debug\requestreply.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\requestreply\obj\Debug\requestreply.csprojResolveAssemblyReference.cache
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\requestreply\obj\Debug\requestreply.dll
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\requestreply\obj\Debug\requestreply.pdb

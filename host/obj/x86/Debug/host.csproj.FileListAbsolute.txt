@@ -39,3 +39,12 @@ C:\Users\vamsi\Documents\CDAC\chat-final\chat\host\bin\Debug\requestreply.dll.co
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\host\obj\x86\Debug\host.csprojResolveAssemblyReference.cache
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\host\obj\x86\Debug\host.exe
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\host\obj\x86\Debug\host.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\bin\Debug\host.exe.config
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\bin\Debug\host.exe
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\bin\Debug\host.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\bin\Debug\requestreply.dll
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\bin\Debug\requestreply.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\bin\Debug\requestreply.dll.config
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\obj\x86\Debug\host.csprojResolveAssemblyReference.cache
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\obj\x86\Debug\host.exe
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\host\obj\x86\Debug\host.pdb

@@ -50,3 +50,16 @@ C:\Users\vamsi\Documents\CDAC\chat-final\chat\chat_client_ui\obj\x86\Debug\chat_
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\chat_client_ui\obj\x86\Debug\chat_client_ui.csproj.GenerateResource.Cache
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\chat_client_ui\obj\x86\Debug\chat_client_ui.exe
 C:\Users\vamsi\Documents\CDAC\chat-final\chat\chat_client_ui\obj\x86\Debug\chat_client_ui.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\bin\Debug\chat_client_ui.exe.config
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\bin\Debug\chat_client_ui.exe
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\bin\Debug\chat_client_ui.pdb
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui.csprojResolveAssemblyReference.cache
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\MainWindow.baml
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\App.g.cs
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui_MarkupCompile.cache
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui.g.resources
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui.Properties.Resources.resources
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui.csproj.GenerateResource.Cache
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui.exe
+C:\Users\vamsi\Documents\CDAC\chat-final\chat - Git\chat_client_ui\obj\x86\Debug\chat_client_ui.pdb

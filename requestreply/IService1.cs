@@ -1,12 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Serialization;
-using System.ComponentModel;
 using System.ServiceModel;
-using System.ServiceProcess;
-using System.Configuration;
-using System.Configuration.Install;
 
 namespace requestreply
 {

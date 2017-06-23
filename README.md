@@ -1,9 +1,9 @@
 # DAC-Chat
 IP messender hosted as a windows service without using scokets 
-Developed as a part of Course cirriculam @ C-DAC Bengalore.
+Developed as a part of Course curriculum @ C-DAC Bengalore.
 
 This is a visual studio solution with 3 projects
-1) chat_client_ui is the chat client 
+1) chat_client_ui is the chat client developed in WPF 
 2) host creates a windows service
 3) requestreply is a WCF module which has the chat functionalities
 
